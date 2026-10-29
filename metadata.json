@@ -1,0 +1,8 @@
+{
+  "name": "Aurora Music",
+  "description": "Reproductor de música para Android con diseño Liquid Glass, fondos ambientales sincronizados, ecualizador visual, gestión de biblioteca y controles de reproducción avanzados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
